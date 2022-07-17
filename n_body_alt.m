@@ -114,7 +114,7 @@ toc
 %%
 function [dx] = nbody(t,x)
 
-%REF: https://www.mathworks.com/matlabcentral/fileexchange/75202-n-body-simulation-with-ode45?s_tid=FX_rc1_behav
+%REF: https://www.mathworks.com/matlabcentral/fileexchange/75202-n-body-simulation-with-ode45
 global  m
 
 N = length(m); % The number of bodies
